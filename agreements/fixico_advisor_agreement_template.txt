@@ -1,0 +1,55 @@
+FIXICO ADVISOR AGREEMENT TEMPLATE
+
+This Fixico Advisor Agreement ("Agreement") is entered into as of ____________ (the "Effective Date"), by and between Fixico, Inc., a __________ corporation with its principal place of business at ___________________________________ ("Company"), and ____________________________, an individual residing at ___________________________________ ("Advisor"). Company and Advisor may be referred to individually as a "Party" and collectively as the "Parties."
+
+1. ENGAGEMENT
+1.1 Advisory Services. Company retains Advisor to provide strategic and industry advisory services as reasonably requested by Company (the "Services").
+1.2 Term. The engagement commences on the Effective Date and continues for ____________ months, unless earlier terminated in accordance with Section 6.
+1.3 Relationship. Advisor serves as an independent contractor. Nothing herein creates an employment, agency, or partnership relationship between the Parties.
+
+2. COMPENSATION
+2.1 Equity Compensation. Company grants Advisor the right to receive ____________ equity (e.g., stock options or restricted stock units) in accordance with the Company’s equity incentive plan and the applicable award agreement.
+2.2 Expense Reimbursement. Company reimburses pre-approved reasonable expenses incurred in performing the Services, subject to Company policy.
+
+3. CONFIDENTIALITY AND IP
+3.1 Confidential Information. "Confidential Information" means all non-public information disclosed by Company to Advisor, whether oral, written, or electronic, that a reasonable person would understand to be confidential.
+3.2 Non-Disclosure and Use. Advisor agrees (i) to use Confidential Information solely for performing the Services, and (ii) not to disclose it to third parties without Company’s prior written consent.
+3.3 Intellectual Property. All work product created by Advisor in providing the Services, including ideas, inventions, developments, and works of authorship, is "Work Product." Advisor assigns to Company all worldwide right, title, and interest in and to the Work Product. Advisor agrees to execute documents and perform acts reasonably requested to perfect such ownership.
+
+4. CONFLICTS OF INTEREST
+4.1 Advisor represents that Advisor is free to enter into this Agreement and that performance will not conflict with any other agreement or obligation.
+4.2 Advisor agrees to promptly disclose any potential or actual conflict of interest that arises during the Term.
+
+5. NON-SOLICITATION
+During the Term and for twelve (12) months thereafter, Advisor will not solicit for employment any employee of the Company with whom Advisor had material contact in connection with the Services, provided that general solicitations not directed at Company employees are permitted.
+
+6. TERMINATION
+6.1 Termination for Convenience. Either Party may terminate this Agreement upon thirty (30) days’ prior written notice to the other Party.
+6.2 Termination for Cause. Either Party may terminate immediately for material breach not cured within fifteen (15) days after written notice.
+6.3 Effect of Termination. Upon termination, Advisor will cease performing Services, return or destroy Confidential Information, and the Company will pay any earned but unpaid compensation and reimburse approved expenses.
+
+7. REPRESENTATIONS AND WARRANTIES
+Each Party represents and warrants that it has the right, power, and authority to enter into this Agreement and perform its obligations.
+
+8. INDEMNIFICATION
+Advisor agrees to indemnify and hold Company harmless from claims arising from Advisor’s breach of this Agreement or gross negligence. Company agrees to indemnify Advisor for claims arising from Company’s breach of this Agreement.
+
+9. LIMITATION OF LIABILITY
+Except for breaches of confidentiality, indemnification obligations, or intentional misconduct, neither Party is liable for indirect, consequential, special, or punitive damages arising under this Agreement.
+
+10. GENERAL PROVISIONS
+10.1 Governing Law. This Agreement is governed by the laws of the State of ____________, without regard to conflicts of laws principles.
+10.2 Notices. Notices must be in writing and delivered to the addresses first written above or to such other address notified in writing.
+10.3 Entire Agreement. This Agreement, together with applicable equity award agreements, constitutes the entire agreement between the Parties concerning the subject matter and supersedes prior discussions and writings.
+10.4 Amendments. Any amendment or waiver must be in writing and signed by both Parties.
+10.5 Assignment. Advisor may not assign this Agreement without Company’s prior written consent. Company may assign to a successor in interest.
+10.6 Counterparts; Electronic Signatures. This Agreement may be executed in counterparts and by electronic signatures, each of which is deemed an original.
+
+IN WITNESS WHEREOF, the Parties have executed this Fixico Advisor Agreement as of the Effective Date.
+
+____________________________                   ____________________________
+Name: _______________________                   Name: _______________________
+Title: ________________________                 Title: _______________________
+For: Fixico, Inc.                               Advisor
+
+Date: ________________________                  Date: _______________________
